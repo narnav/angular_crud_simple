@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "desc": "bbb",
+      "price": 4
+    },
+    {
+      "id": 2,
+      "desc": "krembo",
+      "price": 3
+    }
+  ]
+}
